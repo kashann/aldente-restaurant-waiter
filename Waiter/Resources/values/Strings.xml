@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Waiter</string>
+  <string name="guide">Guide</string>
+  <string name="basic">Basic</string>
+  <string name="formal">Formal</string>
+  <string name="settings">SETTINGS</string>
+  <string name="save">Save</string>
+  <string name="delete">Delete</string>
+  <string name="back">Back</string>
+  <string name="set">Set</string>
+  <string name="waiterId">Waiter ID</string>
+  <string-array name="status">
+    <item>Thinking</item>
+    <item>Ordered</item>
+    <item>Waiting</item>
+    <item>Served</item>
+    <item>Bill</item>
+    <item>Paid</item>
+  </string-array>
+</resources>

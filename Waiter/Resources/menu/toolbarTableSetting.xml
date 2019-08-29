@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+    android:id="@+id/basic"
+    app:showAsAction="always|withText"
+    android:title="@string/basic" />
+  <item
+    android:id="@+id/formal"
+    app:showAsAction="always|withText"
+    android:title="@string/formal" />
+</menu>
